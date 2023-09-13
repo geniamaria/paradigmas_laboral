@@ -1,3 +1,5 @@
+package Paradigmas.Estrurura_Condicional;
+
 import java.util.Scanner;
 
 

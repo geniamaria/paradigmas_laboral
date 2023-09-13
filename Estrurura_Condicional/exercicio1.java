@@ -1,6 +1,6 @@
-package Paradigmas;
+package Paradigmas.Estrurura_Condicional;
 import java.util.Scanner;
-public class Parte2Ex1 {
+public class exercicio1 {
     public static void main(String[] args) {
         int x;
     Scanner teclado = new Scanner(System.in);
