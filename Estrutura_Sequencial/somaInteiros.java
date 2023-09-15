@@ -1,6 +1,6 @@
 package Paradigmas.Estrutura_Sequencial;
 import java.util.Scanner;
-public class exercicio1 {
+public class somaInteiros {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         int x1;

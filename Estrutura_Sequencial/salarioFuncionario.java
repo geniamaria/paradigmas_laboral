@@ -2,7 +2,7 @@ package Paradigmas.Estrutura_Sequencial;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 import java.util.Scanner;
-public class exercicio4 {
+public class salarioFuncionario {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         NumberFormat formatter = new DecimalFormat("#0");     

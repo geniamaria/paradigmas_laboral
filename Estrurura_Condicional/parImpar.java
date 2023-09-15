@@ -1,16 +1,18 @@
 package Paradigmas.Estrurura_Condicional;
 import java.util.Scanner;
-public class exercicio1 {
+public class parImpar {
     public static void main(String[] args) {
+        Scanner teclado = new Scanner(System.in);
         int x;
-    Scanner teclado = new Scanner(System.in);
     System.out.println("Introduza o valor");
     x=teclado.nextInt();
-    if(x<0){
-        System.out.println(" o numero e negativo");
+    
+
+    if(x%2==0){
+        System.out.println("Numero par");
     }
     else{
-        System.out.println( " o numero nao e negativo");
+        System.out.println("Numero impar");
     }
     
 }

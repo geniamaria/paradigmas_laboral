@@ -1,6 +1,6 @@
 package Paradigmas.Estrutura_Sequencial;
 import java.util.Scanner;
-public class exercicio2 {
+public class raioCirculo {
     public static void main(String[] args) {
 
             Scanner a = new Scanner(System.in);

@@ -2,7 +2,7 @@ package Paradigmas.Estrurura_Condicional;
 
 import java.util.Scanner;
 
-public class exercicio3 {
+public class multiplos {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
